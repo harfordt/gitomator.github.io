@@ -17,5 +17,5 @@ Gitomator is made up of a number of libraries:
 
  * [`gitomator-classroom`](https://github.com/gitomator/gitomator-classroom) -
    Workflow automation for software educators.
-    * Built on top of Gitoamtor
+    * Built on top of Gitomator
     * Uses `gitomator-github` and `gitomator-travis`, by default.
